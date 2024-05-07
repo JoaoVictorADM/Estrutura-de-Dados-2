@@ -1,0 +1,9 @@
+Árvore AVL - Arquivo 1 - Media de comparações: 9.1200 - Tempo de execução para inserção: 9 - Tempo de execução para busca: 0 - Tempo de execução total: 9
+Árvore AVL - Arquivo 2 - Media de comparações: 9.2120 - Tempo de execução para inserção: 7 - Tempo de execução para busca: 0 - Tempo de execução total: 7
+Árvore AVL - Arquivo 3 - Media de comparações: 9.9000 - Tempo de execução para inserção: 8 - Tempo de execução para busca: 0 - Tempo de execução total: 8
+Tabela Hash Encadeada - Arquivo 1 - Media de comparações: 5.6420 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 0 - Tempo de execução total: 0
+Tabela Hash Encadeada - Arquivo 2 - Media de comparações: 5.6220 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 0 - Tempo de execução total: 0
+Tabela Hash Encadeada - Arquivo 3 - Media de comparações: 36.2500 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 0 - Tempo de execução total: 0
+Tabela Hash Endereçamento Aberto - Arquivo 1 - Media de comparações: 1.0000 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 0 - Tempo de execução total: 0
+Tabela Hash Endereçamento Aberto - Arquivo 2 - Media de comparações: 1.0000 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 0 - Tempo de execução total: 0
+Tabela Hash Endereçamento Aberto - Arquivo 3 - Media de comparações: 41.5500 - Tempo de execução para inserção: 0 - Tempo de execução para busca: 1 - Tempo de execução total: 1
